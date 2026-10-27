@@ -1,0 +1,16 @@
+CLAIM FILE
+Claim ID: CLM-0011
+Insured: Harbor Point Logistics
+Line of Business: Marine Cargo
+Policy Period: 2024-03-17 to 2025-03-16
+Policy Limit: $250,000
+Date of Loss: 2025-02-19
+Date Reported: 2025-02-22
+Cause of Loss: partial theft at port
+Reserve: $86,000
+Paid to Date: $58,920
+
+ADJUSTER NOTES
+- Adjuster inspected the partial theft at port at the insured's premises and took photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

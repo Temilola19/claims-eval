@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0016
+Insured: Northgate Foods Inc
+Line of Business: Commercial Property
+Policy Period: 2024-02-19 to 2025-02-17
+Policy Limit: $250,000
+Date of Loss: 2024-06-16
+Date Reported: 2024-06-25
+Cause of Loss: fire in storage unit
+Reserve: $84,000
+Paid to Date: $43,430
+
+ADJUSTER NOTES
+- Adjuster inspected the fire in storage unit at the insured's premises and took photographs.
+- Loss location is not a scheduled premises under the policy.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

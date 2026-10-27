@@ -1,0 +1,19 @@
+CLAIM FILE
+Claim ID: CLM-0026
+Insured: Keystone Packaging Co
+Line of Business: Marine Cargo
+Policy Period: 2024-03-19 to 2025-03-18
+Policy Limit: $250,000
+Date of Loss: 2025-04-16
+Date Reported: 2025-04-19
+Cause of Loss: partial theft at port
+Reserve: $107,000
+Paid to Date: $170,691
+
+ADJUSTER NOTES
+- Adjuster inspected the partial theft at port at the insured's premises and took photographs.
+- Payments to date of $170,691 exceed the carried reserve of $107,000 with no reserve increase documented.
+- Loss location is not a scheduled premises under the policy.
+- Date of loss falls after policy expiry and no extended reporting period applies.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

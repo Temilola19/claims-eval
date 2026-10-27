@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0020
+Insured: Northgate Foods Inc
+Line of Business: General Liability
+Policy Period: 2024-02-01 to 2025-01-30
+Policy Limit: $500,000
+Date of Loss: 2024-08-29
+Date Reported: 2024-09-02
+Cause of Loss: contractor injury on site
+Reserve: $100,000
+Paid to Date: $128,625
+
+ADJUSTER NOTES
+- Adjuster inspected the contractor injury on site at the insured's premises and took photographs.
+- Payments to date of $128,625 exceed the carried reserve of $100,000 with no reserve increase documented.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0044
+Insured: Redwood Fabrication LLC
+Line of Business: General Liability
+Policy Period: 2024-01-19 to 2025-01-17
+Policy Limit: $1,000,000
+Date of Loss: 2024-06-30
+Date Reported: 2024-07-05
+Cause of Loss: customer slip and fall
+Reserve: $169,000
+Paid to Date: $85,418
+
+ADJUSTER NOTES
+- Adjuster inspected the customer slip and fall at the insured's premises and took photographs.
+- Invoice INV-8547 for $13,500 was paid twice, on two separate payment runs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0007
+Insured: Keystone Packaging Co
+Line of Business: General Liability
+Policy Period: 2024-06-23 to 2025-06-22
+Policy Limit: $250,000
+Date of Loss: 2025-01-13
+Date Reported: 2025-01-16
+Cause of Loss: contractor injury on site
+Reserve: $58,000
+Paid to Date: $25,847
+
+ADJUSTER NOTES
+- Adjuster inspected the contractor injury on site at the insured's premises and took photographs.
+- Repair vendor shares a mailing address with the insured.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

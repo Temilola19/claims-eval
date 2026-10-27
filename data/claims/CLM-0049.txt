@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0049
+Insured: Redwood Fabrication LLC
+Line of Business: General Liability
+Policy Period: 2024-07-13 to 2025-07-12
+Policy Limit: $500,000
+Date of Loss: 2024-11-06
+Date Reported: 2024-11-11
+Cause of Loss: product damage claim
+Reserve: $111,000
+Paid to Date: $91,331
+
+ADJUSTER NOTES
+- Adjuster inspected the product damage claim at the insured's premises and took photographs.
+- Invoice INV-4206 for $19,000 was paid twice, on two separate payment runs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

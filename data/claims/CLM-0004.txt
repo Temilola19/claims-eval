@@ -1,0 +1,18 @@
+CLAIM FILE
+Claim ID: CLM-0004
+Insured: Meridian Textiles
+Line of Business: General Liability
+Policy Period: 2024-07-05 to 2025-07-04
+Policy Limit: $500,000
+Date of Loss: 2025-03-01
+Date Reported: 2025-03-03
+Cause of Loss: contractor injury on site
+Reserve: $175,000
+Paid to Date: $228,186
+
+ADJUSTER NOTES
+- Adjuster inspected the contractor injury on site at the insured's premises and took photographs.
+- Payments to date of $228,186 exceed the carried reserve of $175,000 with no reserve increase documented.
+- Insured reported a prior similar loss in 2023 that was not disclosed at inception.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

@@ -1,0 +1,16 @@
+CLAIM FILE
+Claim ID: CLM-0003
+Insured: Harbor Point Logistics
+Line of Business: Commercial Property
+Policy Period: 2024-02-22 to 2025-02-20
+Policy Limit: $1,000,000
+Date of Loss: 2024-11-12
+Date Reported: 2024-11-18
+Cause of Loss: wind damage to roof
+Reserve: $156,000
+Paid to Date: $99,087
+
+ADJUSTER NOTES
+- Adjuster inspected the wind damage to roof at the insured's premises and took photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

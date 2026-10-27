@@ -1,0 +1,19 @@
+CLAIM FILE
+Claim ID: CLM-0029
+Insured: Northgate Foods Inc
+Line of Business: Marine Cargo
+Policy Period: 2024-07-02 to 2025-07-01
+Policy Limit: $500,000
+Date of Loss: 2025-05-13
+Date Reported: 2025-08-05
+Cause of Loss: partial theft at port
+Reserve: $103,000
+Paid to Date: $82,026
+
+ADJUSTER NOTES
+- Adjuster inspected the partial theft at port at the insured's premises and took photographs.
+- Invoice INV-8032 for $20,000 was paid twice, on two separate payment runs.
+- Notice of loss received 84 days after the date of loss; insured gave no reason for the delay.
+- Insured reported a prior similar loss in 2023 that was not disclosed at inception.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

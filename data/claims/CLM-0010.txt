@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0010
+Insured: Meridian Textiles
+Line of Business: Commercial Property
+Policy Period: 2024-05-02 to 2025-05-01
+Policy Limit: $500,000
+Date of Loss: 2025-01-14
+Date Reported: 2025-01-26
+Cause of Loss: fire in storage unit
+Reserve: $41,000
+Paid to Date: $19,649
+
+ADJUSTER NOTES
+- Adjuster inspected the fire in storage unit at the insured's premises and took photographs.
+- Letter of representation received from claimant's attorney; demand exceeds reserve.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

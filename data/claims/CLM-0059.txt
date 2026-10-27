@@ -1,0 +1,16 @@
+CLAIM FILE
+Claim ID: CLM-0059
+Insured: Harbor Point Logistics
+Line of Business: General Liability
+Policy Period: 2024-07-09 to 2025-07-08
+Policy Limit: $500,000
+Date of Loss: 2025-05-05
+Date Reported: 2025-05-11
+Cause of Loss: contractor injury on site
+Reserve: $126,000
+Paid to Date: $79,259
+
+ADJUSTER NOTES
+- Adjuster inspected the contractor injury on site at the insured's premises and took photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

@@ -1,0 +1,19 @@
+CLAIM FILE
+Claim ID: CLM-0047
+Insured: Atlas Cold Storage
+Line of Business: Commercial Property
+Policy Period: 2024-01-28 to 2025-01-26
+Policy Limit: $500,000
+Date of Loss: 2024-12-22
+Date Reported: 2024-12-26
+Cause of Loss: fire in storage unit
+Reserve: $176,000
+Paid to Date: $88,531
+
+ADJUSTER NOTES
+- Adjuster inspected the fire in storage unit at the insured's premises and took photographs.
+- Insured's recorded statement is inconsistent with the site photographs.
+- Letter of representation received from claimant's attorney; demand exceeds reserve.
+- Invoice INV-7446 for $8,500 was paid twice, on two separate payment runs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

@@ -1,0 +1,16 @@
+CLAIM FILE
+Claim ID: CLM-0014
+Insured: Redwood Fabrication LLC
+Line of Business: Commercial Property
+Policy Period: 2024-07-19 to 2025-07-18
+Policy Limit: $500,000
+Date of Loss: 2024-11-08
+Date Reported: 2024-11-19
+Cause of Loss: fire in storage unit
+Reserve: $65,000
+Paid to Date: $41,512
+
+ADJUSTER NOTES
+- Adjuster inspected the fire in storage unit at the insured's premises and took photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

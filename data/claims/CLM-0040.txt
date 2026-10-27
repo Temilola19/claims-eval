@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0040
+Insured: Summit Ridge Builders
+Line of Business: Commercial Property
+Policy Period: 2024-01-24 to 2025-01-22
+Policy Limit: $250,000
+Date of Loss: 2024-07-15
+Date Reported: 2024-07-25
+Cause of Loss: wind damage to roof
+Reserve: $114,000
+Paid to Date: $175,762
+
+ADJUSTER NOTES
+- Adjuster inspected the wind damage to roof at the insured's premises and took photographs.
+- Payments to date of $175,762 exceed the carried reserve of $114,000 with no reserve increase documented.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

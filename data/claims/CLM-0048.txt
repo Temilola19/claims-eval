@@ -1,0 +1,18 @@
+CLAIM FILE
+Claim ID: CLM-0048
+Insured: Summit Ridge Builders
+Line of Business: General Liability
+Policy Period: 2024-01-29 to 2025-01-27
+Policy Limit: $250,000
+Date of Loss: 2024-03-19
+Date Reported: 2024-03-30
+Cause of Loss: product damage claim
+Reserve: $104,000
+Paid to Date: $52,507
+
+ADJUSTER NOTES
+- Adjuster inspected the product damage claim at the insured's premises and took photographs.
+- Invoice INV-7125 for $16,000 was paid twice, on two separate payment runs.
+- Insured's recorded statement is inconsistent with the site photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

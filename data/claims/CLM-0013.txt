@@ -1,0 +1,16 @@
+CLAIM FILE
+Claim ID: CLM-0013
+Insured: Summit Ridge Builders
+Line of Business: Marine Cargo
+Policy Period: 2024-01-21 to 2025-01-19
+Policy Limit: $250,000
+Date of Loss: 2024-05-22
+Date Reported: 2024-05-28
+Cause of Loss: cargo shifted in transit
+Reserve: $78,000
+Paid to Date: $51,366
+
+ADJUSTER NOTES
+- Adjuster inspected the cargo shifted in transit at the insured's premises and took photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

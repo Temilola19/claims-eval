@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0054
+Insured: Northgate Foods Inc
+Line of Business: General Liability
+Policy Period: 2024-02-04 to 2025-02-02
+Policy Limit: $500,000
+Date of Loss: 2024-09-14
+Date Reported: 2024-09-18
+Cause of Loss: customer slip and fall
+Reserve: $178,000
+Paid to Date: $158,454
+
+ADJUSTER NOTES
+- Adjuster inspected the customer slip and fall at the insured's premises and took photographs.
+- Suit has been filed against the insured in state court; defence counsel appointed.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

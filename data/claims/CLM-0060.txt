@@ -1,0 +1,19 @@
+CLAIM FILE
+Claim ID: CLM-0060
+Insured: Keystone Packaging Co
+Line of Business: Commercial Property
+Policy Period: 2024-04-03 to 2025-04-02
+Policy Limit: $250,000
+Date of Loss: 2024-12-04
+Date Reported: 2025-02-12
+Cause of Loss: wind damage to roof
+Reserve: $53,000
+Paid to Date: $75,789
+
+ADJUSTER NOTES
+- Adjuster inspected the wind damage to roof at the insured's premises and took photographs.
+- Payments to date of $75,789 exceed the carried reserve of $53,000 with no reserve increase documented.
+- Loss location is not a scheduled premises under the policy.
+- Notice of loss received 70 days after the date of loss; insured gave no reason for the delay.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

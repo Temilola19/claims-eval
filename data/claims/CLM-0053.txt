@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0053
+Insured: Bluefin Marine Supply
+Line of Business: Commercial Property
+Policy Period: 2024-01-17 to 2025-01-15
+Policy Limit: $500,000
+Date of Loss: 2024-02-13
+Date Reported: 2024-02-16
+Cause of Loss: fire in storage unit
+Reserve: $161,000
+Paid to Date: $112,625
+
+ADJUSTER NOTES
+- Adjuster inspected the fire in storage unit at the insured's premises and took photographs.
+- Cause of loss appears to be gradual wear and tear, which is excluded under the policy.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

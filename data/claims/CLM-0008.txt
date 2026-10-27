@@ -1,0 +1,18 @@
+CLAIM FILE
+Claim ID: CLM-0008
+Insured: Summit Ridge Builders
+Line of Business: Marine Cargo
+Policy Period: 2024-06-25 to 2025-06-24
+Policy Limit: $1,000,000
+Date of Loss: 2025-03-25
+Date Reported: 2025-04-05
+Cause of Loss: container water ingress
+Reserve: $33,000
+Paid to Date: $21,488
+
+ADJUSTER NOTES
+- Adjuster inspected the container water ingress at the insured's premises and took photographs.
+- Cause of loss appears to be gradual wear and tear, which is excluded under the policy.
+- Suit has been filed against the insured in state court; defence counsel appointed.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

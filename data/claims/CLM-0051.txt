@@ -1,0 +1,18 @@
+CLAIM FILE
+Claim ID: CLM-0051
+Insured: Harbor Point Logistics
+Line of Business: Marine Cargo
+Policy Period: 2024-07-10 to 2025-07-09
+Policy Limit: $500,000
+Date of Loss: 2024-12-29
+Date Reported: 2025-01-08
+Cause of Loss: cargo shifted in transit
+Reserve: $96,000
+Paid to Date: $38,599
+
+ADJUSTER NOTES
+- Adjuster inspected the cargo shifted in transit at the insured's premises and took photographs.
+- Letter of representation received from claimant's attorney; demand exceeds reserve.
+- Loss location is not a scheduled premises under the policy.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

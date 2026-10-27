@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0015
+Insured: Northgate Foods Inc
+Line of Business: Commercial Property
+Policy Period: 2024-02-08 to 2025-02-06
+Policy Limit: $500,000
+Date of Loss: 2024-12-16
+Date Reported: 2024-12-26
+Cause of Loss: water damage from burst pipe
+Reserve: $57,000
+Paid to Date: $41,972
+
+ADJUSTER NOTES
+- Adjuster inspected the water damage from burst pipe at the insured's premises and took photographs.
+- Cause of loss appears to be gradual wear and tear, which is excluded under the policy.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

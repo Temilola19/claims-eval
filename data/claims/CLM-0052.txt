@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0052
+Insured: Meridian Textiles
+Line of Business: General Liability
+Policy Period: 2024-05-07 to 2025-05-06
+Policy Limit: $250,000
+Date of Loss: 2024-08-18
+Date Reported: 2024-08-21
+Cause of Loss: customer slip and fall
+Reserve: $97,000
+Paid to Date: $82,693
+
+ADJUSTER NOTES
+- Adjuster inspected the customer slip and fall at the insured's premises and took photographs.
+- Insured's recorded statement is inconsistent with the site photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

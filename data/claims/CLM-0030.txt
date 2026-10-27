@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0030
+Insured: Bluefin Marine Supply
+Line of Business: Marine Cargo
+Policy Period: 2024-01-08 to 2025-01-06
+Policy Limit: $250,000
+Date of Loss: 2025-01-15
+Date Reported: 2025-01-18
+Cause of Loss: container water ingress
+Reserve: $112,000
+Paid to Date: $103,906
+
+ADJUSTER NOTES
+- Adjuster inspected the container water ingress at the insured's premises and took photographs.
+- Date of loss falls after policy expiry and no extended reporting period applies.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

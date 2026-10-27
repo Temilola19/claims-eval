@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0009
+Insured: Harbor Point Logistics
+Line of Business: General Liability
+Policy Period: 2024-01-01 to 2024-12-30
+Policy Limit: $250,000
+Date of Loss: 2024-10-27
+Date Reported: 2024-11-02
+Cause of Loss: customer slip and fall
+Reserve: $157,000
+Paid to Date: $195,241
+
+ADJUSTER NOTES
+- Adjuster inspected the customer slip and fall at the insured's premises and took photographs.
+- Payments to date of $195,241 exceed the carried reserve of $157,000 with no reserve increase documented.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

@@ -1,0 +1,16 @@
+CLAIM FILE
+Claim ID: CLM-0042
+Insured: Harbor Point Logistics
+Line of Business: Commercial Property
+Policy Period: 2024-06-30 to 2025-06-29
+Policy Limit: $1,000,000
+Date of Loss: 2025-03-09
+Date Reported: 2025-03-16
+Cause of Loss: fire in storage unit
+Reserve: $145,000
+Paid to Date: $58,014
+
+ADJUSTER NOTES
+- Adjuster inspected the fire in storage unit at the insured's premises and took photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

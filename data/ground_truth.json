@@ -1,0 +1,175 @@
+{
+ "CLM-0001": [
+  "fraud",
+  "late_notice",
+  "leakage"
+ ],
+ "CLM-0002": [
+  "coverage"
+ ],
+ "CLM-0003": [],
+ "CLM-0004": [
+  "fraud",
+  "leakage"
+ ],
+ "CLM-0005": [
+  "coverage",
+  "leakage"
+ ],
+ "CLM-0006": [
+  "leakage"
+ ],
+ "CLM-0007": [
+  "fraud"
+ ],
+ "CLM-0008": [
+  "coverage",
+  "litigation"
+ ],
+ "CLM-0009": [
+  "leakage"
+ ],
+ "CLM-0010": [
+  "litigation"
+ ],
+ "CLM-0011": [],
+ "CLM-0012": [
+  "late_notice"
+ ],
+ "CLM-0013": [],
+ "CLM-0014": [],
+ "CLM-0015": [
+  "coverage"
+ ],
+ "CLM-0016": [
+  "coverage"
+ ],
+ "CLM-0017": [
+  "litigation"
+ ],
+ "CLM-0018": [],
+ "CLM-0019": [],
+ "CLM-0020": [
+  "leakage"
+ ],
+ "CLM-0021": [
+  "leakage"
+ ],
+ "CLM-0022": [
+  "coverage",
+  "leakage",
+  "litigation"
+ ],
+ "CLM-0023": [
+  "fraud",
+  "leakage",
+  "litigation"
+ ],
+ "CLM-0024": [
+  "leakage"
+ ],
+ "CLM-0025": [],
+ "CLM-0026": [
+  "coverage",
+  "leakage"
+ ],
+ "CLM-0027": [
+  "late_notice"
+ ],
+ "CLM-0028": [
+  "leakage",
+  "litigation"
+ ],
+ "CLM-0029": [
+  "fraud",
+  "late_notice",
+  "leakage"
+ ],
+ "CLM-0030": [
+  "coverage"
+ ],
+ "CLM-0031": [],
+ "CLM-0032": [
+  "coverage",
+  "fraud"
+ ],
+ "CLM-0033": [
+  "fraud",
+  "leakage"
+ ],
+ "CLM-0034": [
+  "fraud"
+ ],
+ "CLM-0035": [
+  "late_notice"
+ ],
+ "CLM-0036": [
+  "coverage",
+  "late_notice"
+ ],
+ "CLM-0037": [
+  "coverage"
+ ],
+ "CLM-0038": [],
+ "CLM-0039": [],
+ "CLM-0040": [
+  "leakage"
+ ],
+ "CLM-0041": [
+  "late_notice"
+ ],
+ "CLM-0042": [],
+ "CLM-0043": [
+  "fraud"
+ ],
+ "CLM-0044": [
+  "leakage"
+ ],
+ "CLM-0045": [],
+ "CLM-0046": [],
+ "CLM-0047": [
+  "fraud",
+  "leakage",
+  "litigation"
+ ],
+ "CLM-0048": [
+  "fraud",
+  "leakage"
+ ],
+ "CLM-0049": [
+  "leakage"
+ ],
+ "CLM-0050": [
+  "leakage"
+ ],
+ "CLM-0051": [
+  "coverage",
+  "litigation"
+ ],
+ "CLM-0052": [
+  "fraud"
+ ],
+ "CLM-0053": [
+  "coverage"
+ ],
+ "CLM-0054": [
+  "litigation"
+ ],
+ "CLM-0055": [],
+ "CLM-0056": [
+  "late_notice",
+  "leakage"
+ ],
+ "CLM-0057": [
+  "late_notice"
+ ],
+ "CLM-0058": [
+  "leakage"
+ ],
+ "CLM-0059": [],
+ "CLM-0060": [
+  "coverage",
+  "late_notice",
+  "leakage"
+ ]
+}

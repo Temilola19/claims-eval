@@ -1,0 +1,18 @@
+CLAIM FILE
+Claim ID: CLM-0032
+Insured: Meridian Textiles
+Line of Business: Commercial Property
+Policy Period: 2024-03-14 to 2025-03-13
+Policy Limit: $1,000,000
+Date of Loss: 2024-04-16
+Date Reported: 2024-04-19
+Cause of Loss: wind damage to roof
+Reserve: $70,000
+Paid to Date: $30,982
+
+ADJUSTER NOTES
+- Adjuster inspected the wind damage to roof at the insured's premises and took photographs.
+- Repair vendor shares a mailing address with the insured.
+- Loss location is not a scheduled premises under the policy.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

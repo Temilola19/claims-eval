@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0041
+Insured: Atlas Cold Storage
+Line of Business: General Liability
+Policy Period: 2024-04-02 to 2025-04-01
+Policy Limit: $1,000,000
+Date of Loss: 2024-06-15
+Date Reported: 2024-08-14
+Cause of Loss: product damage claim
+Reserve: $148,000
+Paid to Date: $102,278
+
+ADJUSTER NOTES
+- Adjuster inspected the product damage claim at the insured's premises and took photographs.
+- Notice of loss received 60 days after the date of loss; insured gave no reason for the delay.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0035
+Insured: Keystone Packaging Co
+Line of Business: General Liability
+Policy Period: 2024-02-10 to 2025-02-08
+Policy Limit: $500,000
+Date of Loss: 2024-02-21
+Date Reported: 2024-04-28
+Cause of Loss: customer slip and fall
+Reserve: $135,000
+Paid to Date: $84,102
+
+ADJUSTER NOTES
+- Adjuster inspected the customer slip and fall at the insured's premises and took photographs.
+- Notice of loss received 67 days after the date of loss; insured gave no reason for the delay.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

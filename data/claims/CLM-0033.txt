@@ -1,0 +1,18 @@
+CLAIM FILE
+Claim ID: CLM-0033
+Insured: Bluefin Marine Supply
+Line of Business: Marine Cargo
+Policy Period: 2024-05-05 to 2025-05-04
+Policy Limit: $1,000,000
+Date of Loss: 2024-10-10
+Date Reported: 2024-10-18
+Cause of Loss: partial theft at port
+Reserve: $152,000
+Paid to Date: $235,926
+
+ADJUSTER NOTES
+- Adjuster inspected the partial theft at port at the insured's premises and took photographs.
+- Payments to date of $235,926 exceed the carried reserve of $152,000 with no reserve increase documented.
+- Repair vendor shares a mailing address with the insured.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

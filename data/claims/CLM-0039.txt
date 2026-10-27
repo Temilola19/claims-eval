@@ -1,0 +1,16 @@
+CLAIM FILE
+Claim ID: CLM-0039
+Insured: Keystone Packaging Co
+Line of Business: Marine Cargo
+Policy Period: 2024-02-12 to 2025-02-10
+Policy Limit: $250,000
+Date of Loss: 2025-01-16
+Date Reported: 2025-01-24
+Cause of Loss: container water ingress
+Reserve: $39,000
+Paid to Date: $20,058
+
+ADJUSTER NOTES
+- Adjuster inspected the container water ingress at the insured's premises and took photographs.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

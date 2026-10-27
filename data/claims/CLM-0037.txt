@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0037
+Insured: Summit Ridge Builders
+Line of Business: General Liability
+Policy Period: 2024-07-16 to 2025-07-15
+Policy Limit: $500,000
+Date of Loss: 2025-02-02
+Date Reported: 2025-02-13
+Cause of Loss: customer slip and fall
+Reserve: $27,000
+Paid to Date: $22,857
+
+ADJUSTER NOTES
+- Adjuster inspected the customer slip and fall at the insured's premises and took photographs.
+- Loss location is not a scheduled premises under the policy.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

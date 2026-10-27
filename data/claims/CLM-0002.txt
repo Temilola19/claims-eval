@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0002
+Insured: Keystone Packaging Co
+Line of Business: Marine Cargo
+Policy Period: 2024-02-26 to 2025-02-24
+Policy Limit: $1,000,000
+Date of Loss: 2024-03-30
+Date Reported: 2024-04-02
+Cause of Loss: container water ingress
+Reserve: $54,000
+Paid to Date: $30,201
+
+ADJUSTER NOTES
+- Adjuster inspected the container water ingress at the insured's premises and took photographs.
+- Cause of loss appears to be gradual wear and tear, which is excluded under the policy.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

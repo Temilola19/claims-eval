@@ -1,0 +1,19 @@
+CLAIM FILE
+Claim ID: CLM-0023
+Insured: Northgate Foods Inc
+Line of Business: General Liability
+Policy Period: 2024-05-11 to 2025-05-10
+Policy Limit: $500,000
+Date of Loss: 2025-03-09
+Date Reported: 2025-03-10
+Cause of Loss: product damage claim
+Reserve: $103,000
+Paid to Date: $159,946
+
+ADJUSTER NOTES
+- Adjuster inspected the product damage claim at the insured's premises and took photographs.
+- Insured's recorded statement is inconsistent with the site photographs.
+- Letter of representation received from claimant's attorney; demand exceeds reserve.
+- Payments to date of $159,946 exceed the carried reserve of $103,000 with no reserve increase documented.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

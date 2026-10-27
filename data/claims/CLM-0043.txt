@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0043
+Insured: Redwood Fabrication LLC
+Line of Business: Commercial Property
+Policy Period: 2024-06-28 to 2025-06-27
+Policy Limit: $250,000
+Date of Loss: 2025-02-27
+Date Reported: 2025-02-28
+Cause of Loss: wind damage to roof
+Reserve: $161,000
+Paid to Date: $133,191
+
+ADJUSTER NOTES
+- Adjuster inspected the wind damage to roof at the insured's premises and took photographs.
+- Repair vendor shares a mailing address with the insured.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.

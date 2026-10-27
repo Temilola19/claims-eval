@@ -1,0 +1,17 @@
+CLAIM FILE
+Claim ID: CLM-0058
+Insured: Bluefin Marine Supply
+Line of Business: Commercial Property
+Policy Period: 2024-05-06 to 2025-05-05
+Policy Limit: $500,000
+Date of Loss: 2025-02-20
+Date Reported: 2025-02-27
+Cause of Loss: water damage from burst pipe
+Reserve: $36,000
+Paid to Date: $50,050
+
+ADJUSTER NOTES
+- Adjuster inspected the water damage from burst pipe at the insured's premises and took photographs.
+- Payments to date of $50,050 exceed the carried reserve of $36,000 with no reserve increase documented.
+- Initial repair estimate obtained from a local contractor.
+- Insured has been cooperative and provided requested documents.
